@@ -11,7 +11,7 @@ var TotalServes  = $("div.widget-content.padding > ul > a").length;
 var index = 0;
 var quest;
 var interval;
-var account = "874004631"
+var account = "NUMERO DA SUA CONTA AQUI"
 
 $(document).ready(function() {
     if ($('body').hasClass('hardware'))
